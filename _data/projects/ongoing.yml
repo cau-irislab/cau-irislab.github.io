@@ -1,0 +1,36 @@
+# _data/projects/ongoing.yml
+
+- index: 01
+  teaser: /assets/images/projects/kocca.jpg
+  period: 2026.04-2028.12
+  title_en: Development of Experiential Library Technology that Allows Users to Speak Out and Experience with Their Whole Body
+  title_ko: 소리 내고 온몸으로 경험하는 체험형 도서관 기술 개발
+  program: 문화체육관광 연구개발사업
+  funding: Korea Creative Content Agency (KOCCA)
+
+
+- index: 02
+  teaser: /assets/images/projects/nrf.jpg
+  period: 2025.09-2031.08
+  title_en: Affective AI-based Storytelling and Image Generation for Global Cultural Content
+  title_ko: 감성 AI 기반 글로벌 문화콘텐츠 스토리텔링과 이미지 생성 연구
+  program: 글로벌인문사회융합연구지원사업
+  funding: National Research Foundation of Korea (NRF)  
+
+
+- index: 03
+  teaser: /assets/images/projects/iitp.jpg
+  period: 2024.07-2029.12
+  title_en: Graduate School of Virtual Convergence (Chung-Ang University)
+  title_ko: 가상융합대학원(중앙대학원)
+  program: 정보통신혁신인재양성사업
+  funding: Institute for Information & Communications Technology Planning & Evaluation (IITP)
+
+
+- index: 04
+  teaser: /assets/images/projects/kocca.jpg
+  period: 2024.07-2026.12
+  title_en: Affective AI-based Storytelling and Image Generation for Global Cultural Content
+  title_ko: 생성형 AI 및 클라우드 기반 콘텐츠 제작 R&D 인재 양성
+  program: 문화기술연구개발지원사업
+  funding: Korea Creative Content Agency (KOCCA)

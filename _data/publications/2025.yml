@@ -1,0 +1,172 @@
+# _data/publications/2026.yml
+
+- index: "C36"
+  title: "MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization"
+
+  authors:
+    - name: "Hyung Kyu Kim"
+    - name: "Sangmin Lee"
+      corresponding: true
+    - name: "Hak Gu Kim"
+      corresponding: true
+      
+  publication:
+    venue: "International Conference on Computer Vision (ICCV)"
+    year: 2025    
+    type: "conference"
+
+  links:
+    arxiv: ""
+    pdf: "https://openaccess.thecvf.com/content/ICCV2025/html/Kim_MemoryTalker_Personalized_Speech-Driven_3D_Facial_Animation_via_Audio-Guided_Stylization_ICCV_2025_paper.html"
+    project: "https://cau-irislab.github.io/ICCV25-MemoryTalker/"
+    code: "https://github.com/kimhyungkyu-1208/MemoryTalker"    
+
+  highlights:
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      text: "Acceptance rate: 24%"
+
+  keywords:
+    - "Speech Processing"
+    - "Motion Generation"
+    - "Digital Human"
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C35"
+  title: "Enhancing 3D Scene Representation with Structural Dissimilarity-Aware Learning"
+
+  authors:
+    - name: "Seungjae Lee"
+    - name: "Ho Jun Kim"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2025
+    type: "conference"
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/11084453"
+    project: ""
+    code: ""    
+
+  highlights:
+
+  keywords:
+    - "3D Vision"    
+    - "Gaussian Splatting"
+    - "Digital Human"
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+
+- index: "C34"
+  title: "Learning Phonetic Context-Dependent Viseme for Enhancing Speech-Driven 3D Facial Animation"
+
+  authors:
+    - name: "Hyung Kyu Kim"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "Interspeech"
+    year: 2025
+    type: "conference"    
+
+  links:
+    arxiv: ""
+    pdf: "https://www.isca-archive.org/interspeech_2025/kim25r_interspeech.pdf"
+    project: "https://cau-irislab.github.io/interspeech25/"
+    code: "https://github.com/kimhyungkyu-1208/interspeech25"    
+
+  highlights:
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      text: "Acceptance rate: 49.87%"
+
+  keywords:
+    - "Speech Processing"
+    - "Motion Generation"
+    - "Digital Human"
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "J19"
+  title: "Leveraging Text Signed Distance Function Map for Boundary- Aware Guidance in Scene Text Segmentation"
+
+  authors:
+    - name: "Ho Jun Kim"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "IEEE Access"
+    year: 2025
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/10981835?source=authoralert"
+    project: ""
+    code: ""    
+
+  highlights:
+
+  keywords:
+    - "Scene Understanding"
+    - "Segmentation"    
+
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "J18"
+  title: "MSCoTDet: Language-driven Multi-modal Fusion for Improved Multispectral Pedestrian Detection"
+
+  authors:
+    - name: "Taeheon Kim"
+    - name: "Sangyun Chung"
+    - name: "Damin Yeom"
+    - name: "Youngjoon Yu"
+    - name: "Hak Gu Kim"
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+    year: 2025
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/10819422?source=authoralert"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 5.5%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 8.3"
+
+  keywords:
+    - "Vision-Language"
+    - "Object Detection"
+
+  media:
+    teaser: ""
+    alt: ""

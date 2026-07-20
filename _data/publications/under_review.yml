@@ -1,0 +1,24 @@
+# _data/publications/under_review.yml
+
+- title: "Motion-Surface-Appearance Dynamic Gaussian Splatting for Accurate Geometry and High-Fidelity Rendering"
+
+  authors:
+    - name: "Seungjae Lee"
+    - name: "Ho Jun Kim"
+    - name: "Hak Gu Kim"
+  
+
+- title: "Rethinking Facial Deformation Representation for Speech-Driven 3D Facial Animation"
+
+  authors:
+    - name: "Hyung Kyu Kim"
+    - name: "Byungchan Hwang"
+    - name: "Hak Gu Kim"
+  
+
+- title: "Language-Guided Scene Text Segmentation via Hierarchical Text Context Reasoning and Implicit Glyph Refinement"
+
+  authors:
+    - name: "Ho Jun Kim"
+    - name: "Hak Gu Kim"
+  

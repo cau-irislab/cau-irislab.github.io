@@ -1,0 +1,288 @@
+# _data/publications/2017.yml
+
+- index: "J06"
+  title: "Ultrafast Layer based Computer-Generated Hologram Calculation with Sparse Template Holographic Fringe Pattern for 3-D Object"
+
+  authors:       
+    - name: "Hak Gu Kim"
+    - name: "Yong Man Ro"
+          
+  publication:
+    venue: "Optics Express (OE)"
+    year: 2017    
+    type: "journal"
+
+  links:
+    arxiv: ""
+    pdf: "https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-24-30418"
+    project: ""
+    code: ""    
+
+  highlights:    
+    - type: "tier"
+      text: "JCR Top 20.2%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 3.356"
+
+  keywords:
+    - "3D Vision"
+    - "Generative Modeling"   
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "J05"
+  title: "Multiview Stereoscopic Video Hole Filling Considering Spatiotemporal Consistency and Binocular Symmetry for Synthesized 3D Video"
+
+  authors:            
+    - name: "Hak Gu Kim"         
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+    year: 2017
+    type: "journal"
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/7374690"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 18.1%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 3.558"
+
+  keywords:    
+    - "3D Vision"
+    - "Generative Modeling"   
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C13"
+  title: "Measurement of Exceptional Motion in VR Video Contents for VR Sickness Assessment Using Deep Convolutional Autoencoder"
+
+  authors:    
+    - name: "Hak Gu Kim"       
+    - name: "Wissam J. Baddar"    
+    - name: "Heoun-taek Lim"    
+    - name: "Hyunwook Jeong"    
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "ACM Symposium on Virtual Reality Software and Technology (VRST)"
+    year: 2017
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://dl.acm.org/doi/abs/10.1145/3139131.3139137"
+    project: ""
+    code: ""    
+
+  highlights:    
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      text: "Acceptance Rate: 21%"
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+    
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "C12"
+  title: "Modality-bridge Transfer Learning for Medical Image Classification"
+
+  authors:
+    - name: "Hak Gu Kim"
+      equal-contribution: true
+    - name: "Yeoreum Choi"        
+      equal-contribution: true        
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CIPS-BMEI)"
+    year: 2017
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8302286"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "Scene Understanding"
+    
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "W01"
+  title: "Robust and Real-Time Visual Tracking with Triplet Convolutional Neural Network"
+
+  authors:    
+    - name: "Jung Uk Kim"    
+    - name: "Hak Gu Kim"            
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "ACM Multimedia Workshop (MMW)"
+    year: 2017
+    type: "workshop"   
+
+  links:
+    arxiv: ""
+    pdf: "https://dl.acm.org/doi/abs/10.1145/3126686.3126740"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "Robust Learning"
+
+  media:
+    teaser: ""
+    alt: ""
+        
+        
+- index: "C11"
+  title: "Visual Comfort Assessment of Stereoscopic Images Using Deep Visual and Disparity Features based on Human Attention"
+
+  authors:
+    - name: "Hyunwook Jeong"     
+    - name: "Hak Gu Kim"         
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2017
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8296374"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "Visual Quality Assessment"    
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C10"
+  title: "Iterative Deep Convolutional Encoder-Decoder Network for Medical Image Segmentation"
+
+  authors:
+    - name: "Jung Uk Kim"     
+    - name: "Hak Gu Kim"         
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Engineering in Medicine and Biology Society (EMBC)"
+    year: 2017
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8036917"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "Segmentation"    
+
+  media:
+    teaser: ""
+    alt: ""
+        
+
+- index: "C09"
+  title: "Sparsity-based Fast CGH Generation Using Layer-based Approach for 3D Point Cloud Model"
+
+  authors:    
+    - name: "Hak Gu Kim"            
+    - name: "Hyunwook Jeong"     
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "SPIE Photonics West (PW)"
+    year: 2017
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10127/101270I/Sparsity-based-fast-CGH-generation-using-layer-based-approach-for/10.1117/12.2250523.short"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "3D Vision"
+    - "Generative Modeling"  
+
+  media:
+    teaser: ""
+    alt: ""
+            
+
+- index: "C08"
+  title: "Investigating Numerical Reconstruction Quality and Sparsity Constraints on the Holographic Fringe Pattern in Digital Holography"
+
+  authors:
+    - name: "Hyunwook Jeong"     
+    - name: "Hak Gu Kim"            
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "SPIE Photonics West (PW)"
+    year: 2017
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10127/101270N/Investigating-numerical-reconstruction-quality-and-sparsity-constraints-on-the-holographic/10.1117/12.2251668.short"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "3D Vision"  
+
+  media:
+    teaser: ""
+    alt: ""

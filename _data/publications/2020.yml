@@ -1,0 +1,217 @@
+# _data/publications/2020.yml
+
+- index: "C27"
+  title: "SACA Net: Cybersickness Assessment of Individual Viewers for VR Content via Graph-based Symptom Relation Embedding"
+
+  authors:
+    - name: "Sangmin Lee"         
+    - name: "Jung Uk Kim"         
+    - name: "Hak Gu Kim"
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "European Conference on Computer Vision (ECCV)"
+    year: 2020
+    type: "conference"
+
+  links:
+    arxiv: ""
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_11"
+    project: ""
+    code: ""    
+
+  highlights:    
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      text: "Acceptance rate: 26%"
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"    
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C26"
+  title: "Structure Boundary Preserving Segmentation for Medical Image with Ambiguous Boundary"
+
+  authors:    
+    - name: "Hong Joo Lee"
+    - name: "Jung Uk Kim"         
+    - name: "Sangmin Lee" 
+    - name: "Hak Gu Kim"
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2020
+    type: "conference"
+
+  links:
+    arxiv: ""
+    pdf: "https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Structure_Boundary_Preserving_Segmentation_for_Medical_Image_With_Ambiguous_Boundary_CVPR_2020_paper.html"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      text: "Acceptance rate: 22%"
+
+  keywords:    
+    - "Segmentation"
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+
+- index: "J13"
+  title: "Deep Virtual Reality Image Quality Assessment with Human Perception Guider for Omnidirectional Image"
+
+  authors:
+    - name: "Hak Gu Kim"
+      equal-contribution: true
+    - name: "Heoun-taek Lim"
+      equal-contribution: true
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+    year: 2020
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/8638985"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 15.7%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 4.685"
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"    
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "J12"
+  title: "BBC Net: Bounding-Box Critic Network for Occlusion-Robust Object Detection"
+
+  authors:
+    - name: "Jung Uk Kim"
+    - name: "Jungsu Kwon"        
+    - name: "Hak Gu Kim"       
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+    year: 2020
+    type: "journal"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8649739"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 15.7%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 4.685"
+
+  keywords:
+    - "Object Detection"
+    - "Robust Learning"
+    
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "J11"
+  title: "MCSIP Net: Multichannel Satellite Image Prediction via Deep Neural Network"
+
+  authors:
+    - name: "Jae-Hyeok Lee"
+    - name: "Sangmin S. Lee"        
+    - name: "Hak Gu Kim"       
+    - name: "Sa-Kwang Song"       
+    - name: "Seongchan Kim"       
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
+    year: 2020
+    type: "journal"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/8933126"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 12.8%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 5.6"
+
+  keywords:
+    - "Generative Modeling"
+    
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "J10"
+  title: "BMAN: Bidirectional Multi-scale Aggregation Networks for Abnormal Event Detection"
+
+  authors:
+    - name: "Sangmin Lee"    
+    - name: "Hak Gu Kim"       
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Image Processing (TIP)"
+    year: 2020
+    type: "journal"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8882515"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 3.2%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 10.856"
+
+  keywords:
+    - "Scene Understanding"    
+    
+  media:
+    teaser: ""
+    alt: ""

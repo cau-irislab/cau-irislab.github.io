@@ -1,0 +1,142 @@
+# _data/publications/2021.yml
+
+- index: "J14"
+  title: "Robust Video Frame Interpolation with Exceptional Motion Map"
+
+  authors:
+    - name: "Minho Park"         
+    - name: "Hak Gu Kim"
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+    year: 2021    
+    type: "journal"
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/9042268"
+    project: ""
+    code: ""    
+
+  highlights:    
+
+  keywords:
+    - "Generative Modeling"
+    - "Robust Learning"    
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C30"
+  title: "Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning"
+
+  authors:    
+    - name: "Sangmin Lee"
+    - name: "Hak Gu Kim"
+    - name: "Dae Hwi Choi"
+    - name: "Hyung-il Kim"
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2021
+    type: "conference"
+
+  links:
+    arxiv: ""
+    pdf: "https://openaccess.thecvf.com/content/CVPR2021/html/Lee_Video_Prediction_Recalling_Long-Term_Motion_Context_via_Memory_Alignment_Learning_CVPR_2021_paper.html"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      text: "Acceptance rate: 23.7%"
+
+  keywords:
+    - "Generative Modeling"        
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+
+- index: "C29"
+  title: "Visual Comfort Aware-Reinforcement Learning for Depth Adjustment of Stereoscopic 3D Images"
+
+  authors:
+    - name: "Hak Gu Kim"
+    - name: "Minho Park"
+    - name: "Sangmin Lee"
+    - name: "Seongyeop Kim"        
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "Association for the Advancement of Artificial Intelligence (AAAI)"
+    year: 2021
+    type: "conference"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/16270"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      text: "Acceptance rate: 21%"
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+    - "Reinforcement Learning"
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C28"
+  title: "Towards a Better Understanding of VR Sickness: Physical Symptom Prediction for VR Contents"
+
+  authors:
+    - name: "Hak Gu Kim"    
+    - name: "Sangmin Lee"
+    - name: "Seongyeop Kim"        
+    - name: "Heoun-taek Lim"        
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "Association for the Advancement of Artificial Intelligence (AAAI)"
+    year: 2021
+    type: "conference"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/16166"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      text: "Acceptance rate: 21%"
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+    
+  media:
+    teaser: ""
+    alt: ""

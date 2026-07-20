@@ -1,0 +1,200 @@
+# _data/publications/2016.yml
+
+- index: "J04"
+  title: "Acceleration of the Calculation Speed of Computer-Generated Holograms Using the Sparsity of the Holographic Fringe Pattern for a 3D Object"
+
+  authors:    
+    - name: "Hak Gu Kim"
+    - name: "Hyunwook Jeong"         
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "Optics Express (OE)"
+    year: 2016
+    type: "journal"
+
+  links:
+    arxiv: ""
+    pdf: "https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-22-25317"
+    project: ""
+    code: ""    
+
+  highlights:    
+    - type: "tier"
+      text: "JCR Top 18.5%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 3.307"
+
+  keywords:
+    - "3D Vision"
+    - "Generative Modeling"
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "J03"
+  title: "Experimental Investigation of the Effect of Binocular Disparity on the Visibility Threshold of Asymmetric Noise in Stereoscopic Viewing"
+
+  authors:    
+    - name: "Hak Gu Kim"
+      equal-contribution: true
+    - name: " Seong-il Lee"   
+      equal-contribution: true      
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "Optics Express (OE)"
+    year: 2016
+    type: "journal"
+
+  links:
+    arxiv: ""
+    pdf: "https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-17-19607"
+    project: ""
+    code: ""    
+
+  highlights:    
+    - type: "tier"
+      text: "JCR Top 18.5%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 3.307"
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+
+- index: "J02"
+  title: "Critical Binocular Asymmetry Measure for the Perceptual Quality Assessment of Synthesized Stereo 3D Images in View Synthesis"
+
+  authors:
+    - name: "Yong Ju Jung"          
+    - name: "Hak Gu Kim"          
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+    year: 2016
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/7102720"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 17.2%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 3.599"
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C07"
+  title: "Measurement of Critical Temporal Inconsistency for Quality Assessment of Synthesized Video"
+
+  authors:    
+    - name: "Hak Gu Kim"       
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2016
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/7532513"
+    project: ""
+    code: ""    
+
+  highlights:
+    
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+    
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "C06"
+  title: "A New Hole Filling Method based on 3D Geometric Transformation for Synthesized Image"
+
+  authors:
+    - name: "Hak Gu Kim"       
+    - name: "Heoun-taek Lim"           
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "Electronic Imaging (EI)"
+    year: 2016
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://library.imaging.org/ei/articles/28/5/art00003"
+    project: ""
+    code: ""    
+
+  highlights:
+    
+
+  keywords:
+    - "3D Vision"
+    - "Generative Modeling"    
+
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "C05"
+  title: "Learning based Hole Filling Method Using Deep Convolutional Neural Network for View Synthesis"
+
+  authors:    
+    - name: "Heoun-taek Lim"           
+    - name: "Hak Gu Kim"       
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "Electronic Imaging (EI)"
+    year: 2016
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://library.imaging.org/ei/articles/28/14/art00006"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "3D Vision"
+    - "Generative Modeling"    
+
+  media:
+    teaser: ""
+    alt: ""

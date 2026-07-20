@@ -1,0 +1,162 @@
+# _data/publications/2024.yml
+
+- index: "W02"
+  title: "Unveiling the Potential of Multimodal Large Language Models for Scene Text Segmentation via Semantic-Enhanced Features"
+
+  authors:
+    - name: "Ho Jun Kim"
+      equal-contribution: true
+    - name: "Hyung Kyu Kim"
+      equal-contribution: true
+    - name: "Sangmin Lee"
+    - name: "Hak Gu Kim"      
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing Workshop (ICIPW)"
+    year: 2024    
+    type: "workshop"
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/10769199"
+    project: ""
+    code: ""    
+
+  highlights:
+    
+
+  keywords:
+    - "Vision-Language"
+    - "Segmentation"  
+    - "Scene Understanding"  
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C33"
+  title: "Analyzing Visible Articulatory Movements in Speech Production for Speech-Driven 3D Facial Animation"
+
+  authors:
+    - name: "Hyung Kyu Kim"
+    - name: "Sangmin Lee"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2024
+    type: "conference"
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/10647359"
+    project: ""
+    code: ""    
+
+  highlights:
+
+  keywords:
+    - "Speech Processing"    
+    - "Face Analysis"
+    - "Motion Generation"
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+
+- index: "C32"
+  title: "Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection"
+
+  authors:
+    - name: "Taeheon Kim"
+    - name: "Sebin Shin"
+    - name: "Youngjoon Yu"    
+    - name: "Hak Gu Kim"
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2024
+    type: "conference"    
+
+  links:
+    arxiv: ""
+    pdf: "https://openaccess.thecvf.com/content/CVPR2024/html/Kim_Causal_Mode_Multiplexer_A_Novel_Framework_for_Unbiased_Multispectral_Pedestrian_CVPR_2024_paper.html"
+    project: "https://www.youtube.com/watch?feature=shared&v=l286OutJalQ"
+    code: "https://github.com/ssbin0914/Causal-Mode-Multiplexer"    
+
+  highlights:
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      text: "Acceptance rate: 23.6%"
+
+  keywords:
+    - "Object Detection"
+    - "Robust Learning"
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "J17"
+  title: "Super-Resolution Neural Radiance Field via Learning High Frequency Details for High-Fidelity Novel View Synthesis"
+
+  authors:
+    - name: "Han-nyoung Lee"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "IEEE Signal Processing Letters (SPL)"
+    year: 2024
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/10413538"
+    project: ""
+    code: ""    
+
+  highlights:
+
+  keywords:
+    - "3D Vision"
+    - "Neural Rendering"
+    
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "J16"
+  title: "Photometric Stereo Super Resolution via Complex Surface Structure Estimation"
+
+  authors:
+    - name: "Han-nyoung Lee"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "IEEE Access"
+    year: 2024
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/10411890"
+    project: ""
+    code: ""    
+
+  highlights:
+
+  keywords:
+    - "3D Vision"
+    - "Generative Modeling"
+    
+  media:
+    teaser: ""
+    alt: ""

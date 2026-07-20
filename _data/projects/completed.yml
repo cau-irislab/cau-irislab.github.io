@@ -1,0 +1,54 @@
+# _data/projects/completed.yml
+
+- index: 01
+  teaser: /assets/images/projects/add.png
+  period: 2023.05-2026.04
+  title_en: Research on Correlation/Causal Relationship of Targets between Multiple Sensors & Deep Learning Model Robust against Adversarial Attack
+  title_ko: 다종센서간 표적정보의 연관관계/인과관계 도출 및 적대적 정보에 강인한 딥러닝 모델 연구
+  program: 미래국방인공지능 특화연구센터
+  funding: Agency for Defense Development (ADD)
+
+
+- index: 02
+  teaser: /assets/images/projects/nrf.jpg
+  period: 2023.06-2026.02
+  title_en: Development of 360 Omnidirectional Video-based High-Fidelity Egocentric 3D Representation Model and Quality Improvement for Reliable Intelligent Metaverse
+  title_ko: 신뢰할 수 있는 지능형 메타버스를 위한 360 전방향 비디오 기반 고품질 자기중심적 3D 생성모델 및 품질개선 학습기법 개발
+  program: 개인기초연구(기본연구)
+  funding: National Research Foundation of Korea (NRF)  
+
+
+- index: 03
+  teaser: /assets/images/projects/kocca.jpg
+  period: 2023.04-2025.12
+  title_en: Acquisition of 3D Precise Information of Microstructure and Development of Authoring Technology for Ultra-High Precision Cultural Restoration
+  title_ko: 초고정밀 문화재 복원을 위한 미세구조의 3차원 정밀 정보 획득 및 저작 기술개발
+  program: 문화서비스 확산형 기술개발
+  funding: Korea Creative Content Agency (KOCCA)
+
+
+- index: 04
+  teaser: /assets/images/projects/etri.png
+  period: 2023.04-2024.01
+  title_en: Development of Scene Text Segmentation Technology for Better Text Understanding
+  title_ko: 형태 변화에 강인한 영상 내 텍스트 검출 기술개발
+  program: 용역과제
+  funding: Electronics and Telecommunications Research Institute (ETRI)
+
+
+- index: 05
+  teaser: /assets/images/projects/etri.png
+  period: 2022.06-2022.11
+  title_en: Development of Scene Text Detection Robust against Shape Changes
+  title_ko: 영상 내 정교한 텍스트 이해를 위한 문자 분할 기술 개발
+  program: 용역과제
+  funding: Electronics and Telecommunications Research Institute (ETRI)
+  
+
+- index: 06
+  teaser: /assets/images/projects/dtaq.png
+  period: 2022.04-2022.10
+  title_en: Research on AI Quality Assessment/Management for Future Defense
+  title_ko: 미래국방 AI 품질관리 기법 연구
+  program: 용역과제
+  funding: Defense Agency for Technology and Quality (DTAQ)

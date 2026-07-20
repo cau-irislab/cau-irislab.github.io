@@ -1,0 +1,280 @@
+# _data/publications/2019.yml
+
+- index: "J09"
+  title: "Endometrium Segmentation on Transvaginal Ultrasound Image Using Key‐point Discriminator"
+
+  authors:
+    - name: "Hyenok Park"         
+    - name: "Hong Joo Lee"         
+    - name: "Hak Gu Kim"
+    - name: "Yong Man Ro"
+    - name: "Dongkuk Shin"
+    - name: "Sa Ra Lee"
+    - name: "Sung Hoon Kim"
+    - name: "Mikyung Kong"
+      
+  publication:
+    venue: "Medical Physics (MP)"
+    year: 2019
+    type: "journal"
+
+  links:
+    arxiv: ""
+    pdf: "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13677"
+    project: ""
+    code: ""    
+
+  highlights:    
+    - type: "tier"
+      text: "JCR Top 24.1%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 3.317"
+
+  keywords:
+    - "Segmentation"
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "J08"
+  title: "VRSA Net: VR Sickness Assessment Considering Exceptional Motion for 360° VR Video"
+
+  authors:            
+    - name: "Hak Gu Kim"
+    - name: "Heoun-taek Lim"
+    - name: "Sangin Lee"         
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Image Processing (TIP)"
+    year: 2019
+    type: "journal"
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8531715"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 4.1%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 9.340"
+
+  keywords:    
+    - "VR/XR"
+    - "Visual Quality Assessment"
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+
+- index: "J07"
+  title: "Binocular Fusion Net: Deep Learning Visual Comfort Assessment for Stereoscopic 3D"
+
+  authors:
+    - name: "Hak Gu Kim"
+      equal-contribution: true
+    - name: "Hyunwook Jeong"
+      equal-contribution: true
+    - name: "Heoun-taek Lim"
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+    year: 2019
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8319944"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 18.7%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 4.133"
+
+  keywords:
+    - "Visual Quality Assessment"
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C25"
+  title: "Generative Guiding Block: Synthesizing Realistic Looking Variants Capable of Even Large Change Demands"
+
+  authors:
+    - name: "Minho Park"    
+    - name: "Hak Gu Kim"       
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2019
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8803510"
+    project: ""
+    code: ""    
+
+  highlights:
+    
+
+  keywords:
+    - "Generative Modeling"
+    
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "C24"
+  title: "Deep Objective Assessment Model based on Spatio-temporal Perception of 360-degree Video for VR Sickness Prediction"
+
+  authors:
+    - name: "Kihyun Kim"
+      equal-contribution: true
+    - name: "Sangmin Lee"        
+      equal-contribution: true
+    - name: "Hak Gu Kim"       
+    - name: "Minho Park"           
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2019
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8803257"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "award"
+      text: "Best Paper Finalists"
+
+    - type: "acceptance-rate"
+      text: "Acceptance Rate: 2.1%"
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "C23"
+  title: "Physiological Fusion Net: Quantifying Individual VR Sickness with Content Stimulus and Physiological Response"
+
+  authors:
+    - name: "Sangmin Lee" 
+    - name: "Seongyeop Kim"    
+    - name: "Hak Gu Kim"       
+    - name: "Min Seob Kim"       
+    - name: "Seokho Yun"       
+    - name: "Bumseok Jeong"       
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2019
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8802983"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+
+  media:
+    teaser: ""
+    alt: ""
+        
+
+- index: "C22"
+  title: "Region-guided Adversarial Learning for Anatomical Landmark Detection in Uterus Ultrasound Image"
+
+  authors:
+    - name: "Hong Joo Lee"     
+    - name: "Hak Gu Kim"       
+    - name: "Hyenok Park"       
+    - name: "Dongkuk Shin"           
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "SPIE Medical Imaging (MI)"
+    year: 2019
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/1094937/Region-guided-adversarial-learning-for-anatomical-landmark-detection-in-uterus/10.1117/12.2512731.short?SSO=1"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "Object Detection"
+
+  media:
+    teaser: ""
+    alt: ""
+        
+
+- index: "C21"
+  title: "Photo-Realistic Facial Emotion Synthesis Using Multi-level Critic Networks with Multi-level Generative Model"
+
+  authors:
+    - name: "Minho Park"     
+    - name: "Hak Gu Kim"            
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "International Conference on Multimedia Modeling (MMM)"
+    year: 2019
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-030-05716-9_1"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "Face Analysis"
+    - "Generative Modeling"    
+
+  media:
+    teaser: ""
+    alt: ""

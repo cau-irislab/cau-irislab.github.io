@@ -1,0 +1,32 @@
+# _data/publications/2014.yml
+
+- index: "C01"
+  title: "Investigating Experienced Quality Factors in Synthesized Multi-view Stereo Images"
+
+  authors:    
+    - name: "Hak Gu Kim"       
+    - name: "Yong Ju Jung"    
+    - name: "Soo Sung Yoon"    
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Digital Signal Processing (DSP)"
+    year: 2014
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/6900729"
+    project: ""
+    code: ""    
+
+  highlights:
+    
+
+  keywords:
+    - "3D Vision"
+    - "Visual Quality Assessment" 
+    
+  media:
+    teaser: ""
+    alt: ""

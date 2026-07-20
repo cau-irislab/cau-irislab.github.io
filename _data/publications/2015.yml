@@ -1,0 +1,123 @@
+# _data/publications/2015.yml
+
+- index: "J01"
+  title: "Multi-frame De-raining Algorithm Using a Motion-compensated Non-local Mean Filter for Rainy Video Sequences"
+
+  authors:       
+    - name: "Hak Gu Kim"
+    - name: "Hyunwook Jeong"
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "Journal of Visual Communication and Image Representation (JVCI)"
+    year: 2015
+    type: "journal"
+
+  links:
+    arxiv: ""
+    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S1047320314001655"
+    project: ""
+    code: ""    
+
+  highlights:    
+    
+
+  keywords:
+    - "Generative Modeling"    
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C04"
+  title: "A Sparse Representation-Based Label Pruning for Image Inpainting Using Global Optimization"
+
+  authors:    
+    - name: "Hak Gu Kim"       
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "Pacific Rim Conference on Multimedia (PCM)"
+    year: 2015
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-319-24075-6_11"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "award"
+      text: "Best Student Paper Award"
+
+  keywords:
+    - "Generative Modeling"
+    
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "C03"
+  title: "Temporally Consistent Hole Filling Method based on Global Optimization with Label Propagation for 3D Video"
+
+  authors:
+    - name: "Hak Gu Kim"       
+    - name: "Soo Sung Yoon"           
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2015
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/7351381"
+    project: ""
+    code: ""    
+
+  highlights:
+    
+
+  keywords:
+    - "3D Vision"
+    - "Generative Modeling"    
+
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "C02"
+  title: "Multi-view Stereo Image Synthesis Using Binocular Symmetry-based Global Optimization"
+
+  authors:
+    - name: "Hak Gu Kim"       
+    - name: "Yong Ju Jung"
+    - name: "Soo Sung Yoon"           
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "SPIE/IS&T Electronic Imaging (EI)"
+    year: 2015
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9391/93910X/Multi-view-stereo-image-synthesis-using-binocular-symmetry-based-global/10.1117/12.2083202.short"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "3D Vision"
+    - "Generative Modeling" 
+
+  media:
+    teaser: ""
+    alt: ""

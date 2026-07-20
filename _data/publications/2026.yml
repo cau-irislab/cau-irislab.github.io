@@ -1,0 +1,133 @@
+# _data/publications/2026.yml
+
+- index: "W03"
+  title: "Revealing Hidden Response Ambiguity in Binary Evaluation of Cultural Gesture Understanding"
+
+  authors:
+    - name: "Sunghun Kang"
+    - name: "Seungjae Lee"
+    - name: "Hongseok Cho"
+    - name: "Hyeokjun Kweon"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing Workshop (ICIPW)"
+    year: 2026    
+    type: "workshop"
+
+  links:
+    arxiv: ""
+    pdf: ""
+    project: ""
+    code: ""    
+
+  highlights:
+    
+
+  keywords:
+    - "Vision-Language"
+    - "Multimodal Learning"
+    - "Human-Centered AI"
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C37"
+  title: "ArtBoost: Synthetic Articulatory Data Augmentation for Acoustic-to-Articulatory Inversion"
+
+  authors:
+    - name: "Hyung Kyu Kim"
+    - name: "Byungchan Hwang"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "Interspeech"
+    year: 2026    
+    type: "conference"
+
+  links:
+    arxiv: "https://arxiv.org/abs/2606.16327"
+    pdf: ""
+    project: "https://cau-irislab.github.io/Interspeech26-ArtBoost/"
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      # text: "Acceptance rate: 24%"
+
+  keywords:
+    - "Speech Processing"
+    - "Motion Generation"    
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "J21"
+  title: "Deformable 3D Point Cloud Perturbations using Cage-based Deformation for Semantic Consistency"
+
+  authors:
+    - name: "Kyo Seok Lee"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "IEEE Transactions on Information Forensics and Security (TIFS)"
+    year: 2026
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/11534487"
+    project: "https://cau-irislab.github.io/Deformable-3D-ADV/"
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 7.8%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 8.0"
+
+  keywords:
+    - "3D Vision"
+    - "Adversarial Learning"    
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+
+- index: "J20"
+  title: "Unsharp-Inspired Adversarial Point Cloud Perturbation via Low-Rank Approximation"
+
+  authors:
+    - name: "Kyo Seok Lee"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "Signal Processing Letters (SPL)"
+    year: 2026
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/11320277"
+    project: ""
+    code: ""    
+
+  highlights:
+
+  keywords:
+    - "3D Vision"
+    - "Adversarial Learning"    
+
+  media:
+    teaser: ""
+    alt: ""

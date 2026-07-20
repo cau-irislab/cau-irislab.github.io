@@ -1,0 +1,224 @@
+# _data/publications/2018.yml
+
+- index: "C20"
+  title: "Adversarial Spatial Frequency Domain Critic Learning for Age and Gender Classification"
+
+  authors:
+    - name: "Sangmin S. Lee"             
+    - name: "Hak Gu Kim"
+    - name: "Kihyun Kim"
+    - name: "Yong Man Ro"    
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2018
+    type: "conference"
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8451616"
+    project: ""
+    code: ""    
+
+  highlights:  
+
+
+  keywords:
+    - "Face Analysis"
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C19"
+  title: "Object Bounding Box-Critic Networks for Occlusion-Robust Object Detection in Road Scene"
+
+  authors:            
+    - name: "Jung Uk Kim"
+      equal-contribution: true
+    - name: "Jungsu Kwon"
+      equal-contribution: true
+    - name: "Hak Gu Kim"         
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Image Processing (ICIP)"
+    year: 2018
+    type: "conference"
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8451034"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:    
+    - "Object Detection"
+    - "Robust Learning"    
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+
+- index: "C18"
+  title: "FSF-C Net: Face Spatial Frequency-Critic Network for Face Super Resolution"
+
+  authors:
+    - name: "Kihyun Kim"      
+    - name: "Hak Gu Kim"          
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE/IEIE International Conference on Consumer Electronics-Asia (ICCE-Asia)"
+    year: 2018
+    type: "conference"    
+
+  links:
+    arxiv: ""
+    pdf: "https://www.dropbox.com/scl/fi/vr24i4whyu1ykfhdnhib4/c19_icce18_faceSR.pdf?rlkey=d9b71a995ebx23wnakf0xvzqv&e=1&dl=0"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "award"
+      text: "Best Student Paper Award (Silver Prize)"
+
+  keywords:
+    - "Face Analysis"
+    - "Generative Modeling"    
+
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C17"
+  title: "VR IQA NET: Deep Virtual Reality Image Quality Assessment Using Adversarial Learning"
+
+  authors:
+    - name: "Heoun-taek Lim"    
+    - name: "Hak Gu Kim"       
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+    year: 2018
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8461317"
+    project: ""
+    code: ""    
+
+  highlights:
+    
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+        
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "C16"
+  title: "STAN: Spatio-Temporal Adversarial Networks for Abnormal Event Detection"
+
+  authors:    
+    - name: "Sangmin Lee"              
+    - name: "Hak Gu Kim"             
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+    year: 2018
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/8462388"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "Scene Understanding"
+    - "Object Detection"    
+
+  media:
+    teaser: ""
+    alt: ""
+    
+
+- index: "C15"
+  title: "ICADx: Interpretable Computer Aided Diagnosis of Breast Masses"
+
+  authors:
+    - name: "Seong Tae Kim" 
+    - name: "Hakmin Lee"    
+    - name: "Hak Gu Kim"           
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "SPIE Medical Imaging (MI)"
+    year: 2018
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10575/1057522/ICADx-interpretable-computer-aided-diagnosis-of-breast-masses/10.1117/12.2293570.short"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "award"
+      text: "Robert F. Wagner All Conference Best Student Paper Final Lists Award"
+
+  keywords:
+    - "Scene Understanding"    
+    
+  media:
+    teaser: ""
+    alt: ""
+        
+
+- index: "C14"
+  title: "Teacher and Student Joint Learning for Compact Facial Landmark Detection Network"
+
+  authors:
+    - name: "Hong Joo Lee"     
+    - name: "Wissam J. Baddar"       
+    - name: "Hak Gu Kim"       
+    - name: "Seong Tae Kim"           
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "International Conference on Multimedia Modeling (MMM)"
+    year: 2018
+    type: "conference"   
+
+  links:
+    arxiv: ""
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-319-73603-7_40"
+    project: ""
+    code: ""    
+
+  highlights:
+
+
+  keywords:
+    - "Face Analysis"
+    
+  media:
+    teaser: ""
+    alt: ""

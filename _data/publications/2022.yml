@@ -1,0 +1,66 @@
+# _data/publications/2022.yml
+
+- index: "J15"
+  title: "Assessing Individual VR Sickness through Deep Feature Fusion of VR Video and Physiological Response"
+
+  authors:
+    - name: "Sangmin Lee"
+    - name: "Seongyeop Kim"
+    - name: "Hak Gu Kim"
+    - name: "Yong Man Ro"
+      
+  publication:
+    venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+    year: 2022
+    type: "journal"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/abstract/document/9509443"
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "JCR Top 15.7%"
+
+    - type: "impact-factor"
+      text: "Impact Factor: 4.685"
+
+  keywords:
+    - "VR/XR"
+    - "Visual Quality Assessment"
+    
+  media:
+    teaser: ""
+    alt: ""
+
+
+- index: "C31"
+  title: "Natural-Looking Adversarial Examples from Freehand Sketches"
+
+  authors:
+    - name: "Hak Gu Kim"
+    - name: "Davide Nanni"
+    - name: "Sabine Süsstrunk"
+      
+  publication:
+    venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+    year: 2022
+    type: "conference"    
+
+  links:
+    arxiv: ""
+    pdf: "https://ieeexplore.ieee.org/document/9747480"
+    project: ""
+    code: ""
+
+  highlights:
+
+  keywords:
+    - "Adversarial Learning"
+    - "Generative Modeling"    
+
+  media:
+    teaser: ""
+    alt: ""
