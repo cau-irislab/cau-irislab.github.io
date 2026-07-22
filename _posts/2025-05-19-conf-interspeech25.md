@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Our paper accepted to Interspeech 2025"
-date: 2026-05-19
+title: "Our paper accepted to Interspeech 2025 (Top-tier Conference)"
+date: 2025-05-19
 ---
 
 Congratualtions! 
