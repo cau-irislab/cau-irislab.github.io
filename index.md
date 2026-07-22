@@ -66,8 +66,8 @@ Our research spans reality modeling and simulation, computational cognition, and
 ## Contact
 
 - **Address:**
-  - English: [06974] Room 818, 305 Building, 84 Heukseok-ro, Dongjak-gu, Seoul, 06974, Republic of Korea
-  - Korean: [06974] 서울 동작구 흑석로 84 중앙대학교 교수연구동 305관 818호
+  - (En) [06974] Room 818, 305 Building, 84 Heukseok-ro, Dongjak-gu, Seoul, 06974, Republic of Korea
+  - (Ko) [06974] 서울 동작구 흑석로 84 중앙대학교 교수연구동 305관 818호
 - **Office Phone**: +82-2-820-5972
 - **Email:** hakgukim@cau.ac.kr
 
