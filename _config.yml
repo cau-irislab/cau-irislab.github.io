@@ -28,7 +28,8 @@ address_url: "https://maps.app.goo.gl/yfR8pPdgoJ7LxySH7"
 description: >- # this means to ignore newlines until "baseurl:"
   Immersive Reality & Integrated Systems Lab
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://cau-irislab.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# url: https://cau-irislab.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://irislab.cau.ac.kr
 # twitter_username: jekyllrb
 github_username:  cau-irislab
 # university_logo: "assets/images/logos/irislab-logo.png"

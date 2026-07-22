@@ -1,5 +1,34 @@
 # _data/publications/under_review.yml
 
+# ieee spl
+- title: "Why Duplicate Vertices Matter in Character Auto-Rigging"
+
+  authors:
+    - name: "Hyun Wook Kim"
+    - name: "Sanglim Han"
+    - name: "Hak Gu Kim"
+  
+
+# ieee spl
+- title: "From Speech Content to Speech Motion: Articulatory Representations for Talking Head Generation"
+
+  authors:
+    - name: "Byungchan Hwang"
+    - name: "Hyung Kyu Kim"
+    - name: "Hak Gu Kim"
+  
+
+# image and vision computing
+- title: "Structure-Aware Global and Local Refinement for 3D Motion Retargeting"
+
+  authors:
+    - name: "Kyo Seok Lee"
+    - name: "San Ah Jeong"
+    - name: "Sanglim Han"
+    - name: "Hak Gu Kim"
+  
+
+# ieee tcsvt
 - title: "Motion-Surface-Appearance Dynamic Gaussian Splatting for Accurate Geometry and High-Fidelity Rendering"
 
   authors:
@@ -8,6 +37,7 @@
     - name: "Hak Gu Kim"
   
 
+# ieee tcsvt
 - title: "Rethinking Facial Deformation Representation for Speech-Driven 3D Facial Animation"
 
   authors:
@@ -16,6 +46,7 @@
     - name: "Hak Gu Kim"
   
 
+# ieee tip
 - title: "Language-Guided Scene Text Segmentation via Hierarchical Text Context Reasoning and Implicit Glyph Refinement"
 
   authors:
