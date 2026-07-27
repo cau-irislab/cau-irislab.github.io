@@ -4,11 +4,11 @@ title: "Prof. Kim honored for 24-2 Outstanding Course Evaluations"
 date: 2025-02-12
 ---
 
-Congratualtions! 
+Congratulations! 
 
-Prof. Kim was selected as an outstanding full-time faculty member based on the course evaluations for the 2nd semester of the 2024.
+Prof. Kim has been recognized as an **Outstanding Full-Time Faculty Member** based on the student course evaluations for the Fall 2024 semester.
 
-The outstanding faculty member designation was awarded to full-time faculty teaching undergraduate courses who ranked in the top 30% based on course evaluations.
+This distinction is awarded to full-time faculty members teaching undergraduate courses who rank within the **Top 30%** in student course evaluations.
 
 - **Course**: Application to Pattern Recognition (56122)
 
