@@ -1,7 +1,7 @@
 # _data/publications/under_review.yml
 
 # ieee spl
-- title: "Why Duplicate Vertices Matter in Character Auto-Rigging"
+- title: "Deformation-Aware Mesh Refinement for Robust Automatic Rigging"
 
   authors:
     - name: "Hyun Wook Kim"
