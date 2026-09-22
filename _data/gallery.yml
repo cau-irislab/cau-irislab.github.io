@@ -1,0 +1,139 @@
+
+# Gallery
+
+- title: "ICIP 2026"
+  date: "Sep 17, 2026"
+  folder: "260917_icip26"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    - "05.jpg"
+    - "06.jpg"
+
+- title: "Aug 2026 Graduation Ceremony"
+  date: "Aug 19, 2026"
+  folder: "260819_graduation"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"    
+
+- title: "Feb 2026 Graduation Ceremony"
+  date: "Feb 11, 2026"
+  folder: "260211_graduation"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"    
+
+- title: "ICCV 2025"
+  date: "Oct 19, 2025"
+  folder: "251019_iccv25"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    - "05.jpg"
+    - "06.jpg"
+    - "07.jpg"
+    - "08.jpg"
+    - "09.jpg"
+
+- title: "ICIP 2025"
+  date: "Sep 21, 2025"
+  folder: "250921_icip25"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    - "05.jpg"
+    - "06.jpg"
+    - "07.jpg"
+
+- title: "Interspeech 2025"
+  date: "Aug 25, 2025"
+  folder: "250825_interspeech25"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    - "05.jpg"
+    - "06.jpg"
+    - "07.jpg"
+
+- title: "Feb 2025 Graduation Ceremony"
+  date: "Feb 19, 2025"
+  folder: "250219_graduation"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    - "05.jpg"
+    - "06.jpg"
+    - "07.jpg"
+    - "08.jpg"    
+
+- title: "IPIU 2025"
+  date: "Feb 05, 2025"
+  folder: "250205_ipiu25"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    - "05.jpg"
+
+- title: "IEIE Winter School 2025"
+  date: "Jan 16, 2025"
+  folder: "250116_winterschool"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+
+- title: "ICIP 2024"
+  date: "Oct 27, 2024"
+  folder: "241027_icip24"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"    
+
+- title: "Aug 2024 Graduation Ceremony"
+  date: "Aug 21, 2024"
+  folder: "240821_graduation"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    
+- title: "Feb 2024 Graduation Ceremony"
+  date: "Feb 21, 2024"
+  folder: "240221_graduation"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    - "05.jpg"
+
+- title: "ICCV 2023"
+  date: "Oct 02, 2023"  
+  folder: "231002_iccv23"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    - "05.jpg"
+
+  

@@ -53,23 +53,42 @@ permalink: /publications/
                       {{ publication.publication.year }}
                     </span>
                   {% endif %}
+                  
                   {% if publication.links %}
                     <span class="publication-links">
+                      {% assign first_link = true %}
+
                       {% if publication.links.arxiv and publication.links.arxiv != "" %}
                         <a href="{{ publication.links.arxiv }}" target="_blank" rel="noopener noreferrer">arXiv</a>
+                        {% assign first_link = false %}
                       {% endif %}
+
                       {% if publication.links.pdf and publication.links.pdf != "" %}
+                        {% unless first_link %}
+                          <span class="separator">·</span>
+                        {% endunless %}
                         <a href="{{ publication.links.pdf }}" target="_blank" rel="noopener noreferrer">PDF</a>
+                        {% assign first_link = false %}
                       {% endif %}
+
                       {% if publication.links.project and publication.links.project != "" %}
+                        {% unless first_link %}
+                          <span class="separator">·</span>
+                        {% endunless %}
                         <a href="{{ publication.links.project }}" target="_blank" rel="noopener noreferrer">Project</a>
+                        {% assign first_link = false %}
                       {% endif %}
+
                       {% if publication.links.code and publication.links.code != "" %}
+                        {% unless first_link %}
+                          <span class="separator">·</span>
+                        {% endunless %}
                         <a href="{{ publication.links.code }}" target="_blank" rel="noopener noreferrer">Code</a>
-                      {% endif %}                      
+                      {% endif %}
                     </span>
                   {% endif %}
                 </div>
+
                 {% if publication.highlights and publication.highlights.size > 0 %}
                   <div class="publication-highlights">
                     {% for highlight in publication.highlights %}
@@ -87,6 +106,7 @@ permalink: /publications/
                     {% endfor %}
                   </div>
                 {% endif %}
+
                 {% if publication.keywords and publication.keywords.size > 0 %}
                   <div class="publication-keywords">
                     {% for keyword in publication.keywords %}
