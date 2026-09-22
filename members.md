@@ -216,7 +216,7 @@ permalink: /members/
       <div class="person-header">
         <p class="name">Sunghun Kang</p>
         <a class="person-links" 
-          href="https://kslee990614.github.io/" 
+          href="https://dowhatulike.github.io/" 
           target="_blank" 
           rel="noopener noreferrer">
           <img src="{{ '/assets/icons/homepage.svg' | relative_url }}" alt="Homepage">
