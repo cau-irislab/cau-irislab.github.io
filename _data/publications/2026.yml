@@ -1,5 +1,41 @@
 # _data/publications/2026.yml
 
+- index: "C38"
+  title: "Seeing Speech: Learning Visible Articulatory Dynamics for Speech-Driven 3D Facial Animation"
+
+  authors:
+    - name: "Hyung Kyu Kim"
+    - name: "Byungchan Hwang"
+    - name: "Hak Gu Kim"
+      
+  publication:
+    venue: "Conference on Neural Information Processing Systems (NeurIPS)"
+    year: 2026
+    type: "conference"
+
+  links:
+    arxiv: ""
+    pdf: ""
+    project: ""
+    code: ""    
+
+  highlights:
+    - type: "tier"
+      text: "Top-tier AI Conference"
+
+    - type: "acceptance-rate"
+      # text: "Acceptance rate: 24%"
+
+  keywords:
+    - "3D Vision"
+    - "Speech Processing"
+    - "Motion Generation"    
+
+  media:
+    teaser: ""
+    alt: ""
+
+
 - index: "W03"
   title: "Revealing Hidden Response Ambiguity in Binary Evaluation of Cultural Gesture Understanding"
 
@@ -23,7 +59,6 @@
 
   highlights:
     
-
   keywords:
     - "Vision-Language"
     - "Multimodal Learning"
@@ -61,6 +96,7 @@
       # text: "Acceptance rate: 24%"
 
   keywords:
+    - "3D Vision"
     - "Speech Processing"
     - "Motion Generation"    
 

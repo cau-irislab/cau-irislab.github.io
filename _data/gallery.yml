@@ -21,6 +21,15 @@
     - "03.jpg"
     - "04.jpg"    
 
+- title: "ICML 2026"
+  date: "July 07, 2026"
+  folder: "260707_icml26"
+  cover: "01.jpg"
+  images:
+    - "02.jpg"
+    - "03.jpg"
+    - "04.jpg"
+    
 - title: "Feb 2026 Graduation Ceremony"
   date: "Feb 11, 2026"
   folder: "260211_graduation"
