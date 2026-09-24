@@ -34,6 +34,8 @@ url: https://irislab.cau.ac.kr
 github_username:  cau-irislab
 # university_logo: "assets/images/logos/irislab-logo.png"
 
+timezone: Asia/Seoul
+
 # Build settings
 theme: minima
 
